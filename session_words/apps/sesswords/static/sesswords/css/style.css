@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+div.left {
+    margin-left:15px; 
+    display:inline-block;
+    
+}
+div.right{
+    display:inline-block;
+    margin-left:30px;
+    margin-top: 10px;
+    vertical-align: top;
+    border: black 5px solid;
+    border-right-width:0px;
+    border-top-width:0px;
+    border-bottom-width:0px;
+}
+
+td.clear {
+    text-align:right;
+}
+.text {
+    display: block;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+.green {
+    color:green
+}
+.big {
+    font-size:40px;
+}
